@@ -1,0 +1,101 @@
+player_id,name,age,country,role,batting_style,bowling_style
+1,Player_1,32,Australia,All-Rounder,Left-hand bat,Right-arm fast
+2,Player_2,38,Australia,All-Rounder,Left-hand bat,Right-arm offbreak
+3,Player_3,22,Australia,Bowler,Right-hand bat,Right-arm spin
+4,Player_4,26,England,Wicket-Keeper,Right-hand bat,
+5,Player_5,37,Australia,Wicket-Keeper,Right-hand bat,
+6,Player_6,23,India,Bowler,Right-hand bat,Right-arm fast
+7,Player_7,21,India,All-Rounder,Right-hand bat,Right-arm fast
+8,Player_8,20,Australia,Bowler,Right-hand bat,Right-arm medium
+9,Player_9,28,England,Bowler,Left-hand bat,Right-arm medium
+10,Player_10,27,England,Bowler,Left-hand bat,Right-arm spin
+11,Player_11,35,Australia,Batsman,Right-hand bat,
+12,Player_12,22,India,All-Rounder,Right-hand bat,Right-arm legbreak
+13,Player_13,28,India,Batsman,Right-hand bat,
+14,Player_14,39,Australia,Bowler,Left-hand bat,Right-arm fast
+15,Player_15,22,England,Batsman,Left-hand bat,
+16,Player_16,32,England,All-Rounder,Left-hand bat,Right-arm fast
+17,Player_17,20,India,Bowler,Left-hand bat,Right-arm spin
+18,Player_18,21,England,Bowler,Right-hand bat,Right-arm spin
+19,Player_19,37,India,Batsman,Left-hand bat,
+20,Player_20,22,India,Batsman,Right-hand bat,
+21,Player_21,21,England,Wicket-Keeper,Right-hand bat,
+22,Player_22,34,Australia,Batsman,Left-hand bat,
+23,Player_23,28,England,Bowler,Right-hand bat,Right-arm fast
+24,Player_24,21,England,Wicket-Keeper,Right-hand bat,
+25,Player_25,26,Australia,Wicket-Keeper,Right-hand bat,
+26,Player_26,26,India,Bowler,Left-hand bat,Left-arm fast
+27,Player_27,29,India,Batsman,Right-hand bat,
+28,Player_28,33,India,All-Rounder,Left-hand bat,Right-arm medium
+29,Player_29,32,England,Batsman,Right-hand bat,
+30,Player_30,37,India,All-Rounder,Left-hand bat,Right-arm fast
+31,Player_31,30,Australia,Bowler,Left-hand bat,Right-arm medium
+32,Player_32,31,India,Bowler,Left-hand bat,Right-arm fast
+33,Player_33,30,Australia,Batsman,Left-hand bat,
+34,Player_34,37,Australia,All-Rounder,Left-hand bat,Right-arm offbreak
+35,Player_35,28,Australia,All-Rounder,Left-hand bat,Right-arm spin
+36,Player_36,33,India,All-Rounder,Left-hand bat,Left-arm orthodox
+37,Player_37,22,Australia,Wicket-Keeper,Left-hand bat,
+38,Player_38,24,India,Batsman,Left-hand bat,
+39,Player_39,28,India,All-Rounder,Right-hand bat,Left-arm orthodox
+40,Player_40,34,Australia,Batsman,Left-hand bat,
+41,Player_41,31,Australia,Bowler,Left-hand bat,Right-arm spin
+42,Player_42,36,Australia,Bowler,Right-hand bat,Right-arm medium
+43,Player_43,29,Australia,Wicket-Keeper,Left-hand bat,
+44,Player_44,21,England,Bowler,Left-hand bat,Right-arm fast
+45,Player_45,39,Australia,All-Rounder,Left-hand bat,Left-arm orthodox
+46,Player_46,29,Australia,Wicket-Keeper,Right-hand bat,
+47,Player_47,22,India,Wicket-Keeper,Right-hand bat,
+48,Player_48,33,India,Batsman,Right-hand bat,
+49,Player_49,27,Australia,Bowler,Right-hand bat,Right-arm offbreak
+50,Player_50,38,Australia,Batsman,Right-hand bat,
+51,Player_51,31,Australia,All-Rounder,Left-hand bat,Right-arm offbreak
+52,Player_52,23,India,Batsman,Left-hand bat,
+53,Player_53,31,India,Bowler,Right-hand bat,Right-arm spin
+54,Player_54,22,England,Batsman,Left-hand bat,
+55,Player_55,38,England,All-Rounder,Left-hand bat,Right-arm fast
+56,Player_56,24,India,Bowler,Left-hand bat,Left-arm orthodox
+57,Player_57,34,India,Batsman,Right-hand bat,
+58,Player_58,28,India,Wicket-Keeper,Right-hand bat,
+59,Player_59,38,England,Batsman,Right-hand bat,
+60,Player_60,34,India,Wicket-Keeper,Right-hand bat,
+61,Player_61,25,India,Bowler,Left-hand bat,Left-arm orthodox
+62,Player_62,39,England,Wicket-Keeper,Right-hand bat,
+63,Player_63,37,Australia,Bowler,Left-hand bat,Left-arm fast
+64,Player_64,20,Australia,Batsman,Right-hand bat,
+65,Player_65,39,India,Batsman,Left-hand bat,
+66,Player_66,30,England,All-Rounder,Right-hand bat,Right-arm offbreak
+67,Player_67,35,Australia,Bowler,Left-hand bat,Right-arm spin
+68,Player_68,30,England,All-Rounder,Left-hand bat,Right-arm offbreak
+69,Player_69,28,England,Batsman,Left-hand bat,
+70,Player_70,20,Australia,All-Rounder,Left-hand bat,Right-arm fast
+71,Player_71,35,England,Wicket-Keeper,Left-hand bat,
+72,Player_72,31,Australia,Bowler,Right-hand bat,Left-arm fast
+73,Player_73,36,Australia,All-Rounder,Left-hand bat,Right-arm fast
+74,Player_74,29,Australia,Bowler,Right-hand bat,Right-arm medium
+75,Player_75,35,Australia,All-Rounder,Left-hand bat,Right-arm offbreak
+76,Player_76,27,Australia,Batsman,Left-hand bat,
+77,Player_77,36,India,Wicket-Keeper,Left-hand bat,
+78,Player_78,33,England,Wicket-Keeper,Left-hand bat,
+79,Player_79,31,England,Bowler,Right-hand bat,Right-arm legbreak
+80,Player_80,27,Australia,All-Rounder,Left-hand bat,Right-arm legbreak
+81,Player_81,22,England,All-Rounder,Left-hand bat,Right-arm legbreak
+82,Player_82,26,India,Wicket-Keeper,Right-hand bat,
+83,Player_83,25,Australia,Bowler,Right-hand bat,Left-arm fast
+84,Player_84,20,Australia,Batsman,Right-hand bat,
+85,Player_85,34,Australia,Batsman,Right-hand bat,
+86,Player_86,32,England,All-Rounder,Left-hand bat,Right-arm spin
+87,Player_87,28,England,Wicket-Keeper,Left-hand bat,
+88,Player_88,28,India,All-Rounder,Left-hand bat,Left-arm orthodox
+89,Player_89,25,India,All-Rounder,Right-hand bat,Right-arm fast
+90,Player_90,27,India,All-Rounder,Left-hand bat,Right-arm medium
+91,Player_91,35,England,Batsman,Left-hand bat,
+92,Player_92,27,India,All-Rounder,Right-hand bat,Right-arm offbreak
+93,Player_93,35,England,Wicket-Keeper,Left-hand bat,
+94,Player_94,27,Australia,Wicket-Keeper,Left-hand bat,
+95,Player_95,37,Australia,Wicket-Keeper,Right-hand bat,
+96,Player_96,35,India,Wicket-Keeper,Left-hand bat,
+97,Player_97,22,Australia,Wicket-Keeper,Left-hand bat,
+98,Player_98,37,India,Batsman,Left-hand bat,
+99,Player_99,29,Australia,Bowler,Left-hand bat,Right-arm spin
+100,Player_100,24,England,Bowler,Right-hand bat,Right-arm spin
